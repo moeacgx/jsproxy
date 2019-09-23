@@ -27,10 +27,10 @@ jsproxy_config({
         'node-aliyun-sg.etherdream.com:8443': 1,
       },
     },
-    'mysite': {
-      label: '当前站点',
+    'demo-sg': {
+      label: 'CF节点1',
       lines: {
-        [location.host]: 1,
+        'b.lulu.workers.dev': 1,
       }
     },
     // 该节点用于加载大体积的静态资源
