@@ -27,7 +27,7 @@ jsproxy_config({
         'node-aliyun-sg.etherdream.com:8443': 1,
       },
     },
-    'demo-sg': {
+    'demo-cf1': {
       label: 'CF节点1',
       lines: {
         'b.lulu.workers.dev': 1,
